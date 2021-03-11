@@ -43,7 +43,7 @@ function makeInt(number) {
 }
 
 function preserveDecimal(String) {
-  return number.parseFloat
+  return number.parseFloat ()
 }
 
 
