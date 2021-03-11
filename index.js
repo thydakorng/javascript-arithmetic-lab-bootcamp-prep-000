@@ -43,7 +43,7 @@ function makeInt(number) {
 }
 
 function preserveDecimal(string) {
-  parseFloat (number)
+  parseInt (number)
 }
 
 
