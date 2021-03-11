@@ -35,3 +35,11 @@ function increment(n) {
 function decrement(n) {
   return
 }
+
+function makeInt(String) {
+  return parseInt
+}
+
+function preserveDecimal(string) {
+  return parseFloat
+}
