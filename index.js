@@ -30,11 +30,11 @@ console.log(number)
 divideBy3 ()
 console.log(number)
 
-function increment(n) {
+function increment(number) {
   return number += 1
 }
 
-function decrement(n) {
+function decrement(number) {
   return number -= 1
 }
 
