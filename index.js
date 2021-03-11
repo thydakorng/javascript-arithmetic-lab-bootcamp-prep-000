@@ -1,4 +1,4 @@
-function add(string) {
+function add(a,b) {
   return (1 + 80)}
   
 function subtract(string) {
