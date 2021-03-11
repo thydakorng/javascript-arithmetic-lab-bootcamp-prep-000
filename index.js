@@ -7,4 +7,6 @@ function subtract(string) {
 function multiply(string) {
   return (2*3.4)}
   
-divide(5.0/2.5)
+function divide(string) {
+  return (5.0/2.5)}
+
