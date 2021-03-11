@@ -39,9 +39,9 @@ function decrement(number) {
 }
 
 function makeInt(String) {
-  return parseInt ('2.2222', 10)
+  return parseInt
 }
 
 function preserveDecimal(String) {
-  return parseFloat ('80.123999')
+  return parseFloat
 }
