@@ -42,6 +42,8 @@ function makeInt(number) {
   return parseInt (number, 10)
 }
 
-parseFloat ('2.222')
+function preserveDecimal(number) {
+  parseFloat (number)
+}
 
 
