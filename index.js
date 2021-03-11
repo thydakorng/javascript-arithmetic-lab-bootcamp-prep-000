@@ -38,10 +38,10 @@ function decrement(number) {
   return number -= 1
 }
 
-function makeInt(String) {
+function makeInt(number) {
   return parseInt
 }
 
-function preserveDecimal(string) {
+function preserveDecimal(number) {
   return parseFloat
 }
