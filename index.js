@@ -38,7 +38,7 @@ function decrement(number) {
   return number -= 1
 }
 
-function makeInt(String) {
+function makeInt(number) {
   return parseInt
 }
 
