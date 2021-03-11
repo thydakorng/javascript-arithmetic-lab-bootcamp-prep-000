@@ -45,3 +45,4 @@ function makeInt(String) {
 function preserveDecimal(String) {
   return parseFloat
 }
+
