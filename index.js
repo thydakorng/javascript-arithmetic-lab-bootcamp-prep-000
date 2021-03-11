@@ -39,7 +39,7 @@ function decrement(number) {
 }
 
 function makeInt(number) {
-  return parseInt
+  return parseInt (number, 10)
 }
 
 function preserveDecimal(String) {
