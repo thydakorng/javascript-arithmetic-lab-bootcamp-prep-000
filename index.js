@@ -28,4 +28,10 @@ console.log(number)
 divideBy3
 console.log(number)
 
+function increment(n) {
+  return
+}
 
+function decrement(n) {
+  return
+}
