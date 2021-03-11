@@ -42,7 +42,7 @@ function makeInt(number) {
   return parseInt (number, 10)
 }
 
-function preserveDecimal(n) {
-  return parseFloat ('2.222')
+function preserveDecimal(String) {
+  return parseFloat
 }
 
