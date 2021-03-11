@@ -7,8 +7,8 @@ function subtract(a = 60, b = 40) {
 function multiply(a = 2, b = 3.4) {
   return (a*b)}
   
-function divide(a = 5,b = 2.5) {
-  return (5.0/2.5)}
+function divide(a = 5, b = 2.5) {
+  return (a/b)}
 
 var number = 10
 function add5() {
