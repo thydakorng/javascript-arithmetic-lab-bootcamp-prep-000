@@ -28,12 +28,12 @@ console.log(number)
 divideBy3
 console.log(number)
 
-function increment(number) {
-  return
+function increment(n) {
+  return number += 1
 }
 
 function decrement(n) {
-  return
+  return number -= 1
 }
 
 function makeInt(String) {
