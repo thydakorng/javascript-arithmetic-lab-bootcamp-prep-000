@@ -1,13 +1,13 @@
 function add(a = 1, b = 80) {
   return (a + b)}
   
-function subtract(a,b) {
-  return (60-40)}
+function subtract(a = 60, b = 40) {
+  return (a-b)}
   
-function multiply(a,b) {
-  return (2*3.4)}
+function multiply(a = 2, b = 3.4) {
+  return (a*b)}
   
-function divide(a,b) {
+function divide(a = 5,b = 2.5) {
   return (5.0/2.5)}
 
 var number = 10
